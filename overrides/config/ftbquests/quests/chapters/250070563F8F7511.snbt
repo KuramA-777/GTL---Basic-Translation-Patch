@@ -1201,7 +1201,7 @@
 		}
 		{
 			dependencies: ["4B6F43302E963F5E"]
-			description: [""]
+			description: ["Useful if you need to store a large amount of items, upto 63 types for items and 18 for fluids!"]
 			icon: "kubejs:infinite_cell_component"
 			id: "7198356C944E053A"
 			rewards: [
@@ -1228,7 +1228,6 @@
 					type: "item"
 				}
 			]
-			subtitle: "Useful if you need to store a large amount of items, upto 63 types"
 			tasks: [
 				{
 					consume_items: true
@@ -1250,5 +1249,5 @@
 			y: -1.0d
 		}
 	]
-	title: "Starting from here"
+	title: "The Beginning"
 }
