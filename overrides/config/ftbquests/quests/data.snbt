@@ -17,6 +17,6 @@
 	}
 	pause_game: false
 	progression_mode: "linear"
-	title: "GregTech Casual Edition"
+	title: "GregTech: Leisure Edition"
 	version: 13
 }

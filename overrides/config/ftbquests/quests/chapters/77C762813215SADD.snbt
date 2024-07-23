@@ -1337,7 +1337,7 @@
 			y: 6.0d
 		}
 		{
-			description: ["T7星球"]
+			description: ["T7 Planet"]
 			id: "43612FDF66B1CEB6"
 			tasks: [{
 				dimension: "ad_astra:ice"
@@ -1353,6 +1353,7 @@
 				"You can go to the netherworld now."
 				"Use the Ancient Reactor Core and place an Emerald Block in the corner adjacent to a Gold Block"
 			]
+			icon: "gtceu:raw_desh"
 			id: "51C280A0A27F4DAC"
 			tasks: [
 				{
