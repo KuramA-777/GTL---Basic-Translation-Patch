@@ -3,4 +3,6 @@ This is a very basic "Translation" Patch for the Modpack called GTL -> https://g
 
 The Pack is based on Chinese and sadly alot of it was baked into non language files. Also there is still remaining Chinese tooltips since they sadly ship a custom Jar of GTCEU Modern with changed files and added java classes to make this pack work. Aka you cant just update this pack yourself.
 
+to install this just copy paste the contents inside the overrides folder into your .minecraft instance of GTL
+
 But i will be making an extended Patch that adds more mods and changes a few things to make it less barebones. -> LINK HERE
