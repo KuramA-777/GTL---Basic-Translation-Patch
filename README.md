@@ -5,4 +5,4 @@ The Pack is based on Chinese and sadly alot of it was baked into non language fi
 
 to install this just copy paste the contents inside the overrides folder into your .minecraft instance of GTL
 
-But i will be making an extended Patch that adds more mods and changes a few things to make it less barebones. -> LINK HERE
+But i made an extended Patch that adds more mods and changes a few things to make it less barebones. -> https://github.com/KuramA-777/GTL---Extended-Translation-Patch
